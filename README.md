@@ -2,7 +2,7 @@
 
 A web application where you can download Youtube videos or musics freely.
 
-Technologies used: nodeJS
+Technologies used: ExpressJS and NodeJS
 
 ### App Images
 ![Home](https://user-images.githubusercontent.com/63449913/185661382-6722f110-88ac-45a7-97e1-0a40bda48a70.JPG)

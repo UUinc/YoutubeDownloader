@@ -1,0 +1,24 @@
+body
+{
+    background-color: red;
+}
+
+h1 strong
+{
+    color: white;
+}
+
+.inputLabel
+{
+    color: white;
+}
+
+.btn-success,
+.btn, .btn:hover, .btn:active, .btn:visited 
+.btn-primary, .btn-primary:hover, .btn-primary:active, .btn-primary:visited 
+{
+    color: red;
+    font-weight: bold;
+    border-color: white;
+    background-color: white !important;
+}
